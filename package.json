@@ -1,0 +1,28 @@
+{
+  "name": "node-english-irregular-verbs",
+  "version": "1.0.0",
+  "description": "Is a very extensive list of english irregular verbs.",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Franceskynov/node-english-irregular-verbs.git"
+  },
+  "keywords": [
+    "json",
+    "english",
+    "irregular",
+    "verbs"
+  ],
+  "author": "Franceskynov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Franceskynov/node-english-irregular-verbs/issues"
+  },
+  "homepage": "https://github.com/Franceskynov/node-english-irregular-verbs#readme"
+}
