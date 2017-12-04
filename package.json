@@ -1,6 +1,6 @@
 {
   "name": "node-english-irregular-verbs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Is a very extensive list of english irregular verbs.",
   "main": "index.js",
   "directories": {

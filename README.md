@@ -1,6 +1,10 @@
 Node-english-irregular-verbs
 =========================
 
+[![NPM Version][npm-version-image]][npm-url]
+[![NPM Downloads][npm-downloads-image]][npm-url]
+[![Node.js Version][node-image]][node-url]
+
 ## Description
 
 node-english-irregular-verbs Is a very extensive list of english irregular verbs.
@@ -23,6 +27,10 @@ for (let i = 0; i < irregularVerbs.verbs.length; i++) {
     }
 }
 ```
+```
+https://cdn.rawgit.com/Franceskynov/node-english-irregular-verbs/master/dist/list.json
+```
+
 ## Examples 
 
 The examples are located in example folder.
