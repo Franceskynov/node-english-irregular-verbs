@@ -23,12 +23,22 @@ for (let i = 0; i < irregularVerbs.verbs.length; i++) {
     }
 }
 ```
+## Examples 
+
+The examples are located in example folder.
+for run these examples:
+
+```bash
+npm install
+node showVerbs.js
+node isInfinitive.js
+```
 
 ## License
 
 (MIT License)
 
-Copyright 2017,  <franceskynov@yandex.com>
+Copyright 2017,  <franceskynov@yandex.com> and <franceskynov@gmail.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
