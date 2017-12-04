@@ -65,3 +65,10 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+
+[npm-version-image]: https://img.shields.io/npm/v/node-english-irregular-verbs.svg
+[npm-downloads-image]: https://img.shields.io/npm/dm/node-english-irregular-verbs.svg
+[npm-url]: https://npmjs.org/package/node-english-irregular-verbs
+[node-image]: https://img.shields.io/node/v/node-english-irregular-verbs.svg
+[node-url]: http://nodejs.org/download/
