@@ -3,12 +3,12 @@ Node-english-irregular-verbs
 
 ## Description
 
-node-english-regular-verbs Is a very extensive list of english irregular verbs.
+node-english-irregular-verbs Is a very extensive list of english irregular verbs.
 
 ## Installation
 
 ```bash
-npm install node-english-regular-verbs
+npm install node-english-irregular-verbs
 ```
 
 ## Usage
